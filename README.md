@@ -1,2 +1,2 @@
-# Frontend-
+# Frontend
 Frontend Developer Bootcamp
